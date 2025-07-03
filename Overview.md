@@ -1,6 +1,3 @@
-Here's a clean, organized Markdown document with embedded clickable links to each of the 25 LeetCode SQL questions:
-
----
 
 # 🎯 Top 25 SQL Questions for Interview Prep (With LeetCode Links)
 
