@@ -76,6 +76,6 @@ Save this **curated list of 25 questions** that are **frequently asked in tech i
 
 ---
 
-> 📌 Pro Tip: Mastering these will prepare you for **90%+ of SQL rounds** in interviews at top tech companies.💡
+> 📌 Pro Tip: Sufficient for **90%+ of SQL rounds** in interviews at top tech companies.💡
 
 ---
