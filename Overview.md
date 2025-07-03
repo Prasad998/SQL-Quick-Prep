@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/8237da51-73f2-4af3-a3ab-011cda5cb10a)
 
 # 🎯 Top 25 SQL Questions for Interview Prep (With LeetCode Links)
 
