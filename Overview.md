@@ -202,14 +202,13 @@ WHERE ...
 
 ---
 
-> 📘 **Remember**:
-> SQL interviews often test how you:
->
-> * Handle nulls
-> * Choose the right type of JOIN
-> * Use `GROUP BY` + `HAVING` smartly
-> * Read questions carefully to avoid traps
-> * Optimize logic using `CASE`, subqueries, or CTEs
+📘 **Remember**:
+> SQL interviews often test how you:  
+ * Handle nulls
+ * Choose the right type of JOIN
+ * Use `GROUP BY` + `HAVING` smartly
+ * Read questions carefully to avoid traps
+ * Optimize logic using `CASE`, subqueries, or CTEs
 
 ---
 
